@@ -5,6 +5,11 @@ import time
 import os
 import argparse
 
+# Written by Ying Qu, <yqu3@vols.utk.edu>
+# This is a demo code for 'Unsupervised and Unregistered Hyperspectral Image Super-Resolution with Mutual Dirichlet-Net'. 
+# The code is for research purposes only. All rights reserved.
+
+
 
 # parameter settings
 parser = argparse.ArgumentParser(description='Hyperspectral Image Super-Resolution')
