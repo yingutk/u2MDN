@@ -3,6 +3,12 @@ import scipy.io as sio
 import collections
 import scipy.misc
 
+
+# Written by Ying Qu, <yqu3@vols.utk.edu>
+# This is a demo code for 'Unsupervised and Unregistered Hyperspectral Image Super-Resolution with Mutual Dirichlet-Net'. 
+# The code is for research purposes only. All rights reserved.
+
+
 def loadData(mname):
     return sio.loadmat(mname)
 
