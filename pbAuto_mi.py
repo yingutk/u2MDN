@@ -13,6 +13,15 @@ import numpy.matlib
 import scipy.ndimage
 import csv
 
+
+
+
+# Written by Ying Qu, <yqu3@vols.utk.edu>
+# This is a demo code for 'Unsupervised and Unregistered Hyperspectral Image Super-Resolution with Mutual Dirichlet-Net'. 
+# The code is for research purposes only. All rights reserved.
+
+
+
 # add sparsity to the decoder instead of the volume loss
 # change the way of adding mean
 class betapan(object):
