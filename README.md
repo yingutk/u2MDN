@@ -2,7 +2,7 @@
 This is a demo code for 'Unsupervised and Unregistered Hyperspectral Image Super-Resolution with Mutual Dirichlet-Net'. The code is for research purposes only. All rights reserved. 
 
 Contact information 
-Ying Qu: yqu3@vols.utk.edu
+Ying Qu: ada.ying.qu@outlook.com
 
 Requirements: 
 
